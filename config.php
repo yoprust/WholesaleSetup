@@ -1,5 +1,5 @@
 <?php
-require_once('./WholesaleSetup/Stripe.php');
+require_once('./Stripe.php');
 
 $stripe = array(
   "secret_key"      => "sk_test_D0mjGvX5C6jQad8ffgDOp1Qh",
